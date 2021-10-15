@@ -25,6 +25,7 @@ sections:
     background_image_size: cover
     background_image_opacity: 20
     has_border: true
+    video_embed_html: '5'
   - type: blog_feed_section
     title: Latest Episodes
     blog_feed_cols: three
